@@ -1,2 +1,2 @@
 # Ultimaker-2-to-3d-bioprinter-upgradein
-Here are the files and instructions for converting a standard 3d printer, "Ultimaker 2+" into a 3d bioprinter, capable of producing high shape fidelety using natrium alginate bioink and an agarose microparticle support gel slurry. This platform is intended for use with live cells.
+Here are the files and instructions for converting a standard 3d printer, "Ultimaker 2+" into a 3d bioprinter, capable of producing high shape fidelety using natrium alginate bioink and an agarose microparticle support gel slurry. This platform is intended for use with live cells. This 3D bioprinter platform builds on the work of iGEM Team Munich 2016 (https://2016.igem.org/Team:LMU-TUM_Munich/Hardware) and Maximilian Sesselmann.
